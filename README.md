@@ -3,6 +3,7 @@
 [![Bower version](https://badge.fury.io/bo/ui-iconpicker.png)](http://badge.fury.io/bo/ui-iconpicker)
 [![devDependencies Status](https://david-dm.org/justin-lau/ui-iconpicker/dev-status.png)](https://david-dm.org/justin-lau/ui-iconpicker#info=devDependencies)
 
+**Edit bug , can use version ui-bootstrap-tpls.min.js > 0.10.0  by -> sanyam-j **
 
 ui-iconpicker is a [Bootstrap]([Bootstrap](http://getbootstrap.com/)) (and
 optionally [Font Awesome](http://fortawesome.github.io/Font-Awesome/)) icons
